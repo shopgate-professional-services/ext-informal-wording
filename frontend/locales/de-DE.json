@@ -1,0 +1,40 @@
+{
+  "favorites": {
+    "empty": "Du hast noch keine Artikel in der Merkliste",
+    "modal": {
+      "message": "Um dieses Produkt zum Warenkorb hinzuzufügen, wähle bitte die Varianten."
+    }
+  },
+  "filter": {
+    "apply": "Anwenden"
+  },
+  "price": {
+    "range": "Preisspanne von {fromPrice} bis {toPrice}"
+  },
+  "search": {
+    "no_result": {
+      "body": "Deine Suche nach \"{searchPhrase}\" liefert keine Ergebnisse."
+    }
+  },
+  "modal": {
+    "body_error": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut."
+  },
+  "cart": {
+    "empty": "Dein Warenkorb ist leer.",
+    "coupons_not_supported": "Löse Gutscheine und Geschenkkarten im nächsten Schritt ein"
+  },
+  "login": {
+    "subline": "Bitte melde Dich an, um fortzufahren.",
+    "forgot_password_popup": "Bitte benutze die Desktop-Website, um Dein Passwort zurückzusetzen.",
+    "no_account": "Du hast noch kein Konto?",
+    "logout_message": "Du wurdest ausgeloggt."
+  },
+  "reviews": {
+    "no_reviews": "Verfasse die erste Bewertung.",
+    "review_form_rate": "Bewerte dieses Produkt:",
+    "review_form_text": "Deine Bewertung (optional)",
+    "review_form_error_author_empty": "Bitte gib einen Namen an.",
+    "review_form_rate_error": "Wie viele Sterne vergibst Du?",
+    "success_message": "Vielen Dank für Deine Bewertung!"
+  }
+}

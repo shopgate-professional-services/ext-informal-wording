@@ -1,0 +1,14 @@
+{
+  "name": "@shopgate-project/informal-wording",
+  "version": "1.0.0",
+  "description": "Uses informal Du for german in engage",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch",
+    "coverage": "jest --coverage",
+    "coverage:watch": "npm run coverage -- --watch"
+  },
+  "devDependencies": {
+  }
+}

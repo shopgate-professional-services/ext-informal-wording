@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "id": "@shopgate-project/informal-wording",
+  "components": [
+    {
+      "type": "translations",
+      "path": "frontend/locales/de-DE.json",
+      "id": "de-DE"
+    }
+  ],
+  "configuration": {
+  }
+}
